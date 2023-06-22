@@ -1,0 +1,3 @@
+[submodule "hostnavi-admin-frontend"]
+	path = hostnavi-admin-frontend
+	url = https://github.com/alichan-69/hostnavi-admin-frontend
