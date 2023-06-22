@@ -1,8 +1,8 @@
 <p>
     <a href="https://twitter.com/alichan0609"><img src="https://img.shields.io/twitter/follow/alichan0609?style=social"></a>
     <a href="https://github.com/alichan-69/hostnavi-admin-frontend"><img src="https://img.shields.io/badge/frontend-hostnavi--admin--frontend-brightgreen"></a>
-    <a href="https://github.com/alichan-69/hostnavi-admin-backend"><img src="https://img.shields.io/badge/backend-hostnavi--admin--backend-brightgreen"></a>
-    <a href="https://github.com/alichan-69/hostnavi-admin-infra"><img src="https://img.shields.io/badge/infra-hostnavi--admin--infra-brightgreen"></a>
+    <a href="https://github.com/alichan-69/hostnavi-admin-backend"><img src="https://img.shields.io/badge/backend-hostnavi--admin--backend-blue"></a>
+    <a href="https://github.com/alichan-69/hostnavi-admin-infra"><img src="https://img.shields.io/badge/infra-hostnavi--admin--infra-orange"></a>
     <a href="https://github.com/alichan-69/hostnavi"><img src="https://img.shields.io/github/license/alichan-69/hostnavi"></a>
 </p>
 
