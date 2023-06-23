@@ -11,7 +11,7 @@
 <img src="./readme/Logo.png">
 
 `HostNavi`は、SpringBoot2.7、MyBatis、JWT 認証、WebSocket、Swagger UI、MinIO、Next、Typescript、Docker 等を用いた空き家の貸し出し管理システムのサンプルアプリケーションです。<br>
-基本的な web アプリケーションを Next や SpringBoot、Docker 周辺の様々な技術を使用しつつ組み、その技術や開発方法を紹介するという目的のもと開発されています。
+基本的な web アプリケーションを Next ・ SpringBoot・Docker 周辺の様々な技術を使用しつつ組み、その技術や開発方法を紹介するという目的のもと開発されています 👩‍💻<br>
 
 # 機能一覧
 
@@ -91,8 +91,8 @@
 
 ## フロントエンド
 
-1. プロジェクトの clone<br>
-   プロジェクトを作成したいディレクトリ配下で以下コマンドを実行。
+1. プロジェクトの クローン<br>
+   プロジェクトを作成したいディレクトリ配下で以下コマンドを実行。<br>
    プロジェクト作成後は、プロジェクトディレクトリ配下で以下コマンドを実行を実行するため、プロジェクトディレクトリに移動。
 
 ```bash
@@ -102,7 +102,7 @@ $ cd hostnavi-admin-frontend
 
 2. 指定バージョンの nodejs のインストール<br>
    `hostnavi-admin-frontend`で使用されているバージョンの nodejs をインストールする。<br>
-   `nvm`でインストールするため、インストールされていない場合、一行目も実行
+   nvmでインストールするため、インストールされていない場合、一行目も実行。
 
 ```bash
 $ brew install nvm
@@ -111,21 +111,21 @@ $ nvm use
 ```
 
 3. yarn のインストール<br>
-   指定バージョンの nodejs に付属する npm に依存した yarn をインストールしたいため、以下コマンドを実行
+   指定バージョンの nodejs に付属する npm に依存した yarn をインストールしたいため、以下コマンドを実行。
 
 ```bash
 $ npm install yarn
 ```
 
-4. プロジェクトで使用するライブラリのインストール
-   以下コマンドを実行
+4. プロジェクトで使用するライブラリのインストール<br>
+   以下コマンドを実行。
 
 ```bash
 $ yarn install
 ```
 
-5. ローカルサーバーの立ち上げ
-   以下コマンドを実行
+5. ローカルサーバーの立ち上げ<br>
+   以下コマンドを実行。
 
 ```bash
 $ yarn dev
@@ -137,7 +137,7 @@ $ yarn dev
 インストールがまだの場合、1 も実行。
 
 1. [公式サイト](https://mergedoc.osdn.jp/)で`Pleiades All in One Eclipse`をインストール。
-2. プロジェクトの clone<br>
+2. プロジェクトの クローン<br>
    Eclipse のメニューからファイル > インポート > Git からプロジェクト > クローン URI を選択。<br>
    URI に`https://github.com/alichan-69/hostnavi-admin.git`を入力、クローン。
 3. `hostnavi-admin`を Maven プロジェクトとして認識させる。<br>
@@ -147,7 +147,7 @@ $ yarn dev
 5. SpringBootApplication を起動する<br>
    `hostnavi-admin`を右クリックして、実行 > Spring Boot アプリケーション > HostNaviAdminApplication > OK をクリックする。<br>
 
-## データベース
+## インフラ
 
 以下の環境構築は全て Docker を使用して行う。
 
