@@ -36,8 +36,8 @@
 
 使用技術・開発方法の詳細が記載されたドキュメントを別ページで閲覧することができます。
 
-- [HostNavi フロントエンド](https://github.com/alichan-69/hostnavi-admin-frontend/README.md)
-- [HostNavi バックエンド](https://github.com/alichan-69/hostnavi-admin-backend/README.md)
+- [HostNavi フロントエンド](https://github.com/alichan-69/hostnavi-admin-frontend/tree/main)
+- [HostNavi バックエンド](https://github.com/alichan-69/hostnavi-admin-backend/tree/main)
 
 # 採用技術一覧
 
@@ -102,7 +102,7 @@ $ cd hostnavi-admin-frontend
 
 2. 指定バージョンの nodejs のインストール<br>
    `hostnavi-admin-frontend`で使用されているバージョンの nodejs をインストールする。<br>
-   nvmでインストールするため、インストールされていない場合、一行目も実行。
+   nvm でインストールするため、インストールされていない場合、一行目も実行。
 
 ```bash
 $ brew install nvm
