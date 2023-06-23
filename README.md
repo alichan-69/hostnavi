@@ -10,8 +10,10 @@
 
 <img src="./readme/Logo.png">
 
-`HostNavi`は、SpringBoot2.7、MyBatis、JWT 認証、WebSocket、Swagger UI、MinIO、Next、Typescript、Docker 等を用いた空き家の貸し出し管理システムのサンプルアプリケーションです。<br>
-基本的な web アプリケーションを Next ・ SpringBoot・Docker 周辺の様々な技術を使用しつつ組み、その技術や開発方法を紹介するという目的のもと開発されています 👩‍💻<br>
+`HostNavi`は、SpringBoot2.7、MyBatis、JWT 認証、WebSocket、Swagger UI、MinIO、Next、Typescript、Docker 等を用いた空き家の貸し出し管理システムのサンプルアプリケーションです。<br><br>
+基本的な web アプリケーションを Next ・ SpringBoot・Docker 周辺の様々な技術を使用しつつ組み、その技術や開発方法を紹介するという目的のもと開発されています 👩‍💻<br><br>
+閲覧してくれる方が多そうだったらドキュメントを充実させたり、アプリケーションの機能を増やしたり等も考えているので、気軽にスター・プルリク・イシュー・フォーク等して頂けると大変ありがたいです 🙇‍♀️<br><br>
+できる範囲でプルリクやイシュー等対応していきたいと思っています。
 
 # 機能一覧
 
